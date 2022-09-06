@@ -1,0 +1,23 @@
+.Footer {
+  color: white;
+  background-color: #476cee;
+  height: 70px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  justify-items: center;
+  align-items: center;
+  padding-top: 0.7%;
+}
+.Footer.copyright {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-wrap: wrap;
+}
+.bottom {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
